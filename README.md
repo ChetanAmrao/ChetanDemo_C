@@ -1,4 +1,4 @@
-# ChetanDemo_C
+# C Practice
 
 This is a repo for C programs 
 
