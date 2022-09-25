@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChetanDemo_C", "ChetanDemo_C.vcxproj", "{081F5562-1D04-45C7-B71C-D9DFF0FC9F59}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Basics", "Basics\Basics.vcxproj", "{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{081F5562-1D04-45C7-B71C-D9DFF0FC9F59}.Release|x64.Build.0 = Release|x64
 		{081F5562-1D04-45C7-B71C-D9DFF0FC9F59}.Release|x86.ActiveCfg = Release|Win32
 		{081F5562-1D04-45C7-B71C-D9DFF0FC9F59}.Release|x86.Build.0 = Release|Win32
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Debug|x64.ActiveCfg = Debug|x64
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Debug|x64.Build.0 = Debug|x64
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Debug|x86.Build.0 = Debug|Win32
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Release|x64.ActiveCfg = Release|x64
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Release|x64.Build.0 = Release|x64
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Release|x86.ActiveCfg = Release|Win32
+		{FA5FA3F4-F446-4848-AABC-D69F76DFFE54}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
